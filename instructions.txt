@@ -1,0 +1,5 @@
+Arrow Key Up - up
+Arrow Key Down - down
+Arrow Key Left - left
+Arrow Key Right - right
+Purple Blocks - teleport
