@@ -1,5 +1,9 @@
-Arrow Key Up - up
-Arrow Key Down - down
-Arrow Key Left - left
-Arrow Key Right - right
+Arrow Key Up - Player 1 up
+Arrow Key Down - Player 1 down
+Arrow Key Left - Player 1 left
+Arrow Key Right - Player 1 right
+Keypad 5 - Player 2 up
+Keypad 2 - Player 2 down
+Keypad 1 - Player 2 left
+Keypad 3 - Player 2 right
 Purple Blocks - teleport
